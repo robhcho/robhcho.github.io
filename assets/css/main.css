@@ -79,10 +79,11 @@
 
 /*Resume*/
 	#resume {
-		width:85%;
-		margin-top: 35px;
-		margin-left: 95px;
-		margin-right: 40px;	
+		width:100%;
+		/*align-content: center;*/
+		/*margin-top: 35px;*/
+		/*margin-left: 40px;*/
+		/*margin-right: 40px;	*/
 	}
 /* Collapsible Window*/
 	.collapsible {
