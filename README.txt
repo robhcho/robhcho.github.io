@@ -1,37 +1,53 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+TITLE:   
+Neat - 100% Fully Responsive Free HTML5 Bootstrap Template
+
+AUTHOR:
+DESIGNED & DEVELOPED by FreeHTML5.co
+
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
+CREDITS:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Bootstrap
+http://getbootstrap.com/
 
-(* = Not included)
+jQuery
+http://jquery.com/
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-AJ
-aj@lkn.io | @ajlkn
+Modernizr
+http://modernizr.com/
 
+Google Fonts
+https://www.google.com/fonts/
 
-Credits:
+Icomoon
+https://icomoon.io/app/
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+ 
+animate.css
+http://daneden.me/animate
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+Flexslider
+http://flexslider.woothemes.com/
+
+jQuery countTo
+https://github.com/mhuggins/jquery-countTo/
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+Demo Images:
+http://unsplash.com
+
